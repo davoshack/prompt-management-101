@@ -5,4 +5,6 @@
 ## Common Mistakes
 ![image](./img/common-mistakes.png)
 
+## Prompt Management Methods
+![image](./img/prompt-mngmt-methods.png)
 
