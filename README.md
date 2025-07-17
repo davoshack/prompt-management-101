@@ -8,3 +8,6 @@
 ## Prompt Management Methods
 ![image](./img/prompt-mngmt-methods.png)
 
+## Company Approach
+![image](./img/datalumi-approach.png)
+
