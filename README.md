@@ -11,3 +11,6 @@
 ## Company Approach
 ![image](./img/datalumi-approach.png)
 
+## Best Practices
+![image](./img/best-practices.png)
+
