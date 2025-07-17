@@ -2,3 +2,7 @@
 ## Introduction
 ![image](./img/introduction.png)
 
+## Common Mistakes
+![image](./img/common-mistakes.png)
+
+
